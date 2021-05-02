@@ -120,11 +120,12 @@ function reloadImage() {
         ctx.fillRect(0, 0, canvas.width, canvas.height);
         dim.startY = 30;
         dim.height = canvas.height - 60;
+    } else {
+        ctx.fillStyle = 'black';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        dim = getDimensions(canvas.width, canvas.height, img.width, img.height);
+        ctx.drawImage(img, dim.startX, dim.startY, dim.width, dim.height);    
     }
-    ctx.fillStyle = 'black';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-    dim = getDimensions(canvas.width, canvas.height, img.width, img.height);
-    ctx.drawImage(img, dim.startX, dim.startY, dim.width, dim.height);
 }
 
 function drawText() {
