@@ -1,12 +1,12 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Tyler Ng
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+(link)[https://tylerktng.github.io/Lab5/]
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+(link)[https://github.com/tylerktng/github-actions-for-ci/issues/7]
