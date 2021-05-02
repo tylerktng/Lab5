@@ -5,8 +5,8 @@
 
 ## Part 1:
 
-(link)[https://tylerktng.github.io/Lab5/]
+[link](https://tylerktng.github.io/Lab5/)
 
 ## Part 2:
 
-(link)[https://github.com/tylerktng/github-actions-for-ci/issues/7]
+[link](https://github.com/tylerktng/github-actions-for-ci/issues/7)
